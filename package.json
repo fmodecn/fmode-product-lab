@@ -1,0 +1,37 @@
+{
+  "name": "fmode-product-lab",
+  "version": "0.1.0",
+  "description": "健康快消/食品新品研发方案生成器。5视图分析(市场/用户/供应链/工艺/法规)+AI生图+HTML方案输出。",
+  "type": "module",
+  "main": "./lib/main.mjs",
+  "bin": {
+    "fmode-product-lab": "./bin/product-lab.mjs"
+  },
+  "files": [
+    "lib/",
+    "bin/",
+    "scripts/",
+    "skills/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "fmode",
+    "product",
+    "innovation",
+    "rd",
+    "health",
+    "food",
+    "beverage",
+    "supplement"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmodecn/fmode-product-lab.git"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
