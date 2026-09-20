@@ -1,7 +1,7 @@
 {
   "name": "fmode-product-lab",
-  "version": "0.1.0",
-  "description": "健康快消/食品新品研发方案生成器。5视图分析(市场/用户/供应链/工艺/法规)+AI生图+HTML方案输出。",
+  "version": "0.2.0",
+  "description": "健康快消/食品新品研发全案生成器。VOC+KANO+市场份额+价格带+竞争+定位+错位竞争+5视图+AI生图+HTML方案。",
   "type": "module",
   "main": "./lib/main.mjs",
   "bin": {
